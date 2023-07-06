@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+#main {
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: flex;
+    margin-left: 120px;
+    width: auto;
+}
+
+#card {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: space-evenly;
+    padding: 60px;
+    margin-right: 120px;
+}
+
+#signup {
+    border-style:solid;
+    border: 5px;
+    border-color: black;
+}
