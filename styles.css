@@ -27,3 +27,32 @@ img {
     border: 5px;
     border-color: black;
 }
+
+#signupForm {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+      
+    padding: 5px;
+    width: auto;
+    flex: 1 1 auto;
+}
+
+#divOne {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+#divTwo {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+#divThree {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
