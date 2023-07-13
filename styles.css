@@ -9,8 +9,9 @@ body {
 
 img {
     display: flex;
-    margin-left: 120px;
+    margin-left: 250px;
     width: auto;
+    max-height: 100vh;
 }
 
 #card {
@@ -18,8 +19,8 @@ img {
     flex-direction: column;
     background-color: white;
     justify-content: space-evenly;
-    padding: 60px;
-    margin-right: 120px;
+    
+    margin-right: 250px;
 }
 
 #signup {
